@@ -1,0 +1,53 @@
+﻿  Project 13 [ Bank System & Currency Exchange ( OOP ) ].cpp
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(43,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(214,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(235,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(295,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(300,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsString.h(425,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsUtil.h(61,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsUser.h(155,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+      E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(177,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+      E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(20,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(28,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(370,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(382,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsTotalBalancesScreen.h(61,75): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsCurrency.h(25,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%2013%20[%20Bank%20System%20&%20Currency%20Exchange%20(%20OOP%20)%20].cpp')
+  
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsBankClient.h(323,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\clsUser.h(308,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 13 [ Bank System & Currency Exchange ( OOP ) ].vcxproj -> E:\Users\m\source\repos\Project 13 [ Bank System & Currency Exchange ( OOP ) ]\x64\Debug\Project 13 [ Bank System & Currency Exchange ( OOP ) ].exe
